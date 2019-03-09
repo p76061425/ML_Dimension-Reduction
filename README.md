@@ -20,8 +20,8 @@ $ python3 dm_reduction.py [-h]
 |-ims, IMG_SHOW | Show image, default = false |
 
 可以直接下
-python3 dm_reduction.py -n all -dr all
-會執行全部方法的全部數字，結果圖片存在result資料夾內
+python3 dm_reduction.py -n all -dr all </br>
+會執行全部方法的全部數字，結果圖片存在result資料夾內。
 
 ### eigenface_algo.py
 ```sh
