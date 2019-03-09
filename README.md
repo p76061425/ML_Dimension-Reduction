@@ -60,5 +60,6 @@ $ python3 eigenface_algo.py [-h]
 ![](https://i.imgur.com/jsD1YhP.png)
  
 * __Reconstruct the image__
+
 ![](https://i.imgur.com/DXR1FdM.png) </br>
 PSNR= 46.70577829969278
