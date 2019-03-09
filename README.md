@@ -32,6 +32,7 @@ $ python3 eigenface_algo.py [-h]
 | ---              | --- |
 |-h, --help | show this help message and exit|
 |-nc, N_COMPONENTS | PCA,ICA,LLE n_components, default = 25|
+
 用-nc來指定降維的數量。
 結果會在result_b資料夾內。
 
